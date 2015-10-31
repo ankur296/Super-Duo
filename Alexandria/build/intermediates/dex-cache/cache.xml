@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\AnkurNigam\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.0\e019d15a13a9786f881141d2df6654b8510bce8b\core-3.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e019d15a13a9786f881141d2df6654b8510bce8b">
+        <dex dex="C:\Users\AnkurNigam\Downloads\Alexandria\app\build\intermediates\pre-dexed\debug\core-3.2.0-f17cbb5a07a20530fc91c3fee566fd93eb6cfdd6.jar" />
+    </item>
+    <item
+        jar="C:\Users\AnkurNigam\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\AnkurNigam\Downloads\Alexandria\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-195e034ccb4e9b7e3e3586af1a7432a9946bcd15.jar" />
+    </item>
+    <item
+        jar="C:\Users\AnkurNigam\Downloads\Alexandria\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\AnkurNigam\Downloads\Alexandria\app\build\intermediates\pre-dexed\debug\classes-d59d0cfa7d29a11a4f59d5ca3dc7908650b34447.jar" />
+    </item>
+    <item
+        jar="C:\Users\AnkurNigam\Downloads\Alexandria\app\build\intermediates\exploded-aar\com.journeyapps\zxing-android-embedded\3.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="744a4b394a9a7db8a4c4680836d8544802a9cd64">
+        <dex dex="C:\Users\AnkurNigam\Downloads\Alexandria\app\build\intermediates\pre-dexed\debug\classes-9bd5e860ecf83fadf9deae1abebf53ac7a243f2f.jar" />
+    </item>
+    <item
+        jar="C:\Users\AnkurNigam\Downloads\Alexandria\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\AnkurNigam\Downloads\Alexandria\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-91fe404534f7f269a4f3b528cfce8ed678afea71.jar" />
+    </item>
+    <item
+        jar="C:\Users\AnkurNigam\Downloads\Alexandria\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\AnkurNigam\Downloads\Alexandria\app\build\intermediates\pre-dexed\debug\classes-a3a6453634cb61dfe4ff7f3700395b6e7effa2d8.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/widget_detail.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values-v11" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values/bools.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/xml/widget_info_detail.xml" charset="windows-1252" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
